@@ -1,16 +1,14 @@
-### Hi there 👋
+# Adilson Oliveira
 
-<!--
-**AdilsonOliveira37/AdilsonOliveira37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá pessoal 👋
+Sou fascinado pelo mundo da tecnologia, por cada passo a evolução em que caminhamos, e busco utilizar a programção como uma forma de contribuir de alguma forma para esse desenvolvimento tão gratificante.
 
-Here are some ideas to get you started:
+Sou Web Developer e Analista de dados junior :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente trabalho na **iTUDE** uma empresa que busca ligar o mercado de imoveis na rede, fazendo todo o processo de compra/venda e indicação de forma digital.
+<br/>Sempre buscando contruir da melhor forma possivel softwares, afim de contribuir para um bom resultado e uma gratificante sensação de realização.
+<br/>Busco sempre estudar e continuar estudando, afinal #neverstoplearning.
+
+
+
+![Twitter URL](https://img.shields.io/twitter/url?label=%40Dirsoz&style=social&url=https%3A%2F%2Ftwitter.com%2FDirsoz)
