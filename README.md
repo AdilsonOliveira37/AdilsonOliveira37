@@ -5,7 +5,7 @@ Sou fascinado pelo mundo da tecnologia, por cada passo a evolução em que camin
 
 Sou Web Developer Fullstack junior :computer:
 
-Atualmente trabalho na **iTUDE** uma empresa que busca ligar o mercado de imoveis na rede, fazendo todo o processo de compra/venda e indicação de forma digital.
+Atualmente na área de reactjs, react-native, nodejs, python e PHP. E com curiosidade para estudar Flutter que esta em alta no mercado, e me chamou atenção de uma forma muito legal.
 <br/>Sempre buscando contruir da melhor forma possivel softwares, afim de contribuir para um bom resultado e uma gratificante sensação de realização.
 <br/>Busco sempre estudar e continuar estudando, afinal #neverstoplearning.
 
