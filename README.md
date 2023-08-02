@@ -39,4 +39,8 @@ I am fascinated by the world of technology, by each step of the evolution in whi
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/adilsonoliveira37"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adilsonoliveira37&stroke=ffffff&background=171717&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <a href="https://github.com/adilsonoliveira37">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilsonoliveira37&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonoliveira37&layout=compact&langs_count=7&theme=dark"/>
+</div>
